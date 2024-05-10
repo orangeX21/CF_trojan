@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fce19a29-cc2a-4a14-aafc-47e1d00781f9" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-0-80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-0-80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-0-8080.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-0-8080.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-1-2053.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-1-2053.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-1-2083.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-1-2096.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-1-2096.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-1-443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-1-443.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31898-1-8443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/31898-1-8443.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-2052.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-2052.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-2082.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-2082.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-2086.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-2086.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-2095.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-2095.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-8080.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-8080.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-0-8880.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-0-8880.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-2053.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-2053.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-2083.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-2083.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-2087.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-2087.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-2096.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-2096.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-443.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45102-1-8443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/45102-1-8443.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,22 +34,55 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "orangeX21"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/orangeX21/CF_trojan.git",
+    "accountId": "24c87d56-0d7e-4c52-bada-525d0fd7afd3"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2gEdgTTfOK4gf6u3m7NP6VWL0j8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/luomu/PycharmProjects/CF_trojan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CF_trojan" />
@@ -66,19 +124,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715266782161</updated>
-      <workItem from="1715266784647" duration="12000" />
+      <workItem from="1715266784647" duration="3565000" />
+      <workItem from="1715311672447" duration="6203000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CF_trojan$main.coverage" NAME="main 覆盖结果" MODIFIED="1715320326918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
